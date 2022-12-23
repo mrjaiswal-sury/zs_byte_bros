@@ -11,10 +11,9 @@ We will be implementing the Chatbox and the counselling feature inside Fumigan a
 
 4)Insights into craving patterns and graphs to monitor your overall progression. 
 
-5)Level based challenging system to inform how much money you’re saving, and how much life you’ve regained. 
-There’s also a timeline that shows you how quickly you start enjoying health benefits.
+5)Level based challenging system to inform how much money you’re saving, and how much life you’ve regained.There’s also a timeline that shows you how quickly you start enjoying health benefits.
 
-6) This app uses behavioral modification tools based on the ideas behind Cognitive Behavioral Therapy (CBT)
+6)This app uses behavioral modification tools based on the ideas behind Cognitive Behavioral Therapy (CBT)
 
 We are working on this idea because addictive smokin is a recent trend and 
 Smoking causes about 90% of all lung cancer deaths. More women die from lung cancer each year than from breast cancer.
