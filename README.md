@@ -16,7 +16,6 @@ There’s also a timeline that shows you how quickly you start enjoying health b
 
 6) This app uses behavioral modification tools based on the ideas behind Cognitive Behavioral Therapy (CBT)
 
-
 We are working on this idea because addictive smokin is a recent trend and 
 Smoking causes about 90% of all lung cancer deaths. More women die from lung cancer each year than from breast cancer.
 It is responsible for 80% deaths from chronic obstructive pulmonary disease (COPD) leading to the risk of risk of tuberculosis, 
