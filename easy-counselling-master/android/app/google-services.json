@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786824671107",
+    "firebase_url": "https://the-happy-club-98c3b.firebaseio.com",
+    "project_id": "the-happy-club-98c3b",
+    "storage_bucket": "the-happy-club-98c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786824671107:android:1cca747a2517160d2550b6",
+        "android_client_info": {
+          "package_name": "com.example.thehappyclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786824671107-9sf87ghf5jso29gu7hrvvuad0cndoigi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thehappyclub",
+            "certificate_hash": "390ec2f66b99f574e31032cf2b6cf6e52c862174"
+          }
+        },
+        {
+          "client_id": "786824671107-m0o9gc08gsr6arvdiidn2sjgshg0dptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3vpq6Ilesxen4aLL_eezXtzs4gQtGkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786824671107-m0o9gc08gsr6arvdiidn2sjgshg0dptk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
